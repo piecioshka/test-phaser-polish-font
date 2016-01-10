@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext);
+
+body {
+    font-family: Lobster, sans-serif;
+}
+
+h1 {
+    text-decoration: underline;
+    color: #999;
+}
+
+ul {
+    font-size: 30px;
+    margin: 10px 0 5px 0;
+    width: 150px;
+    float: left;
+}
