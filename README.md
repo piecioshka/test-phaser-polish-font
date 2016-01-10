@@ -24,4 +24,4 @@ http://piecioshka.github.io/test-phaser-polish-font/app/
     font-family: Lobster, sans-serif;
     ```
 
-**You can you polish letters when add: `latin-ext`.**
+**You can use polish letters when add: `latin-ext` in subset part.**
